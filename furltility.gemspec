@@ -5,7 +5,7 @@ require "furltility"
 
 Gem::Specification.new do |gem|
   gem.name = "furltility"
-  gem.version = "0.0.1"
+  gem.version = "0.0.2"
   gem.date = "2012-05-02"
   gem.summary = "Friendly URLs"
   gem.description = "A simple yet very effective library to get awesome-looking URLs in Ruby on Rails, without a database table to handle it."
